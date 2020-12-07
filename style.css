@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+.titre{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 3rem;
+}
+
+.clock{
+    text-align: center;
+    margin: 200px auto;
+    font-size: 5em;
+    }
+
+.clock span{
+   
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 40px;
+   background-color: honeydew;
+}
